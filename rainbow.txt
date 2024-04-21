@@ -1,4 +1,4 @@
-After the rain, a rainbow and a unicorn
+After the rain, a rainbow and a unicorn and a pony
 
 Rain
 
@@ -8,5 +8,7 @@ Space - a Unicorn
 Green,
 Blue, Indigo, Violet
 Is Rainbow a colour?
+
+Pony
 
 The End
