@@ -1,4 +1,4 @@
-After the rain, a rainbow and a unicorn
+After the rain, a rainbow and a unicorn and a pony
 
 Rain
 
@@ -7,5 +7,7 @@ Orange and Yellow
 Space - a Unicorn
 Green,
 Blue, Indigo, Violet
+
+Pony
 
 The End
