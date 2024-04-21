@@ -7,5 +7,6 @@ Orange and Yellow
 Space - a Unicorn
 Green,
 Blue, Indigo, Violet
+Is Rainbow a colour?
 
 The End
